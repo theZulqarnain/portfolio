@@ -1,0 +1,8 @@
+{
+  "name": "portfolio",
+  "version": "4.3.0",
+  "description": "my porfolio",
+  "scripts": {
+    "start": "static-server --port=5001"
+  }
+}
